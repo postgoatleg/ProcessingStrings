@@ -1,0 +1,12 @@
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/bin/Debug/net6.0/ProcessingString.deps.json
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/bin/Debug/net6.0/ProcessingString.dll
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/bin/Debug/net6.0/ProcessingString.pdb
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.csproj.AssemblyReference.cache
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.AssemblyInfoInputs.cache
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.AssemblyInfo.cs
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.csproj.CoreCompileInputs.cache
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.dll
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/refint/ProcessingString.dll
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ProcessingString.pdb
+/Users/andreikovtun/Projects/ProcessingStringSolution/ProcessingString/obj/Debug/net6.0/ref/ProcessingString.dll
